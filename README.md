@@ -1,10 +1,70 @@
-# Buzz-Connect---A-Social-Networking-Platform
-𝑩𝒖𝒛𝒛 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝒊𝒔 𝒂 𝑴𝑬𝑹𝑵 𝒔𝒕𝒂𝒄𝒌 𝒔𝒐𝒄𝒊𝒂𝒍 𝒏𝒆𝒕𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒑𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝒊𝒏𝒔𝒑𝒊𝒓𝒆𝒅 𝒃𝒚 𝑭𝒂𝒄𝒆𝒃𝒐𝒐𝒌. 𝑻𝒉𝒊𝒔 𝒓𝒆𝒑𝒐𝒔𝒊𝒕𝒐𝒓𝒚 𝒄𝒐𝒏𝒕𝒂𝒊𝒏𝒔 𝒕𝒉𝒆 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆𝒅 𝑹𝒆𝒂𝒄𝒕.𝒋𝒔 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅, 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒅 𝒇𝒐𝒓 𝒂𝒏 𝒊𝒏𝒕𝒖𝒊𝒕𝒊𝒗𝒆 𝒖𝒔𝒆𝒓 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆. 𝑭𝒖𝒕𝒖𝒓𝒆 𝒖𝒑𝒅𝒂𝒕𝒆𝒔 𝒘𝒊𝒍𝒍 𝒊𝒏𝒄𝒍𝒖𝒅𝒆 𝒓𝒆𝒂𝒍-𝒕𝒊𝒎𝒆 𝒇𝒆𝒂𝒕𝒖𝒓𝒆𝒔, 𝒎𝒆𝒔𝒔𝒂𝒈𝒊𝒏𝒈, 𝒂𝒏𝒅 𝒎𝒐𝒓𝒆.
-𝑭𝒐𝒍𝒍𝒐𝒘𝒊𝒏𝒈 𝒂𝒓𝒆 𝒕𝒉𝒆 𝒔𝒏𝒊𝒑𝒔 𝒐𝒇 𝑭𝒓𝒐𝒏𝒕-𝑬𝒏𝒅 𝑫𝒆𝒔𝒊𝒈𝒏 𝒐𝒇 𝒎𝒚 𝑺𝒐𝒄𝒊𝒂𝒍 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝑨𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏
-<br>
+# Getting Started with Create React App
 
-𝐑𝐄𝐆𝐈𝐒𝐓𝐄𝐑 𝐏𝐀𝐆𝐄 
-![Register Page](https://github.com/user-attachments/assets/6c81dcff-d777-46fc-845f-b55b42ac7e42)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-𝐇𝐎𝐌𝐄 𝐏𝐀𝐆𝐄
-![Home Page](https://github.com/user-attachments/assets/a25749af-6d74-4611-b260-8390085ce573)
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
